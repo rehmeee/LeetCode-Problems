@@ -1,4 +1,7 @@
-This repo is currently holding all the code that i used to solve leetcode problems !
+This repo is holding all the code that I used to solve leetCode problems!
+
 **About**
-➡️ all the description about the problem and test case are commited inside the code
-➡️ also links to that problem is provided so you can checkout the problem on leetCode
+
+➡️ All the descriptions about the problem and test case are committed inside the code
+
+➡️ also links to that problem are provided so you can checkout the problem on leetCode
